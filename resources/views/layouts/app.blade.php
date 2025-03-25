@@ -13,13 +13,15 @@
             <li><a href="{{ route('menu') }}">Menú</a></li>
             <li><a href="{{ route('about') }}">Nosotros</a></li>
             <li><a href="{{ route('contact') }}">Contacto</a></li>
+            <li><a href="{{ route('gallery') }}">Galería</a></li>
+
         </ul>
     </nav>
     <main>
         @yield('content')
     </main>
     <footer>
-        <p>© 2025 Cafetería. Todos los derechos reservados.</p>
+        <p>© 2025 Cafetería "El Peninsular". Todos los derechos reservados a su mi persona.</p>
     </footer>
 </body>
 </html>

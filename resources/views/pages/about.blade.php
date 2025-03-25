@@ -4,6 +4,6 @@
 
 @section('content')
     <h1>Sobre Nosotros</h1>
-    <p>Somos una cafetería con más de 10 años de experiencia.</p>
+    <p>Somos una cafetería que esta empezando es este ambito comercial ;DD.</p>
 @endsection
 

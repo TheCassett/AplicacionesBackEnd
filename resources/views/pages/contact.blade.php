@@ -4,5 +4,5 @@
 
 @section('content')
     <h1>Contacto</h1>
-    <p>Envíanos un mensaje a contacto@cafeteria.com</p>
+    <p>Envíanos un mensaje a CarlosDiaz xdxd</p>
 @endsection
